@@ -1,0 +1,132 @@
+<BugCollection sequence='0' release='' analysisTimestamp='1542883305260' version='3.0.1' timestamp='1542869813000'>
+    <Project projectName='work'>
+        <Jar>/Users/maxkorenovskyy/Desktop/Java/Koren-1/work/target/classes</Jar>
+        <SrcDir>/Users/maxkorenovskyy/Desktop/Java/Koren-1/work/src/main/java</SrcDir>
+        <WrkDir>/Users/maxkorenovskyy/Desktop/Java/Koren-1/work/target</WrkDir>
+    </Project>
+    <Errors missingClasses='12' errors='0'>
+        <MissingClass>java.io.PrintStream</MissingClass>
+        <MissingClass>java.io.Serializable</MissingClass>
+        <MissingClass>java.lang.Enum</MissingClass>
+        <MissingClass>java.lang.Object</MissingClass>
+        <MissingClass>java.lang.String</MissingClass>
+        <MissingClass>java.lang.StringBuilder</MissingClass>
+        <MissingClass>java.util.Comparator</MissingClass>
+        <MissingClass>java.util.Iterator</MissingClass>
+        <MissingClass>java.util.LinkedList</MissingClass>
+        <MissingClass>java.util.List</MissingClass>
+        <MissingClass>java.util.Objects</MissingClass>
+        <MissingClass>java.util.stream.Stream</MissingClass>
+    </Errors>
+    <FindBugsSummary num_packages='3' total_classes='11' total_size='248' clock_seconds='1.18' referenced_classes='11'
+                     vm_version='9.0.4+11' total_bugs='0' java_version='9.0.4' gc_seconds='0.01' alloc_mbytes='512.00'
+                     cpu_seconds='3.45' peak_mbytes='98.66' timestamp='Thu, 22 Nov 2018 08:56:53 +0200'>
+        <FileStats path='ua/lviv/iot/BabyClothesStore.java' size='56' bugCount='0'></FileStats>
+        <FileStats path='ua/lviv/iot/Main.java' size='31' bugCount='0'></FileStats>
+        <FileStats path='ua/lviv/iot/enums/Season.java' size='13' bugCount='0'></FileStats>
+        <FileStats path='ua/lviv/iot/enums/Sex.java' size='11' bugCount='0'></FileStats>
+        <FileStats path='ua/lviv/iot/enums/Size.java' size='13' bugCount='0'></FileStats>
+        <FileStats path='ua/lviv/iot/enums/Type.java' size='12' bugCount='0'></FileStats>
+        <FileStats path='ua/lviv/iot/goods/Gloves.java' size='14' bugCount='0'></FileStats>
+        <FileStats path='ua/lviv/iot/goods/Good.java' size='56' bugCount='0'></FileStats>
+        <FileStats path='ua/lviv/iot/goods/Hat.java' size='14' bugCount='0'></FileStats>
+        <FileStats path='ua/lviv/iot/goods/Socks.java' size='14' bugCount='0'></FileStats>
+        <FileStats path='ua/lviv/iot/goods/Tights.java' size='14' bugCount='0'></FileStats>
+        <PackageStats package='ua.lviv.iot' total_bugs='0' total_size='87' total_types='2'>
+            <ClassStats bugs='0' size='56' interface='false' sourceFile='BabyClothesStore.java'
+                        class='ua.lviv.iot.BabyClothesStore'></ClassStats>
+            <ClassStats bugs='0' size='31' interface='false' sourceFile='Main.java'
+                        class='ua.lviv.iot.Main'></ClassStats>
+        </PackageStats>
+        <PackageStats package='ua.lviv.iot.enums' total_bugs='0' total_size='49' total_types='4'>
+            <ClassStats bugs='0' size='13' interface='false' sourceFile='Season.java'
+                        class='ua.lviv.iot.enums.Season'></ClassStats>
+            <ClassStats bugs='0' size='11' interface='false' sourceFile='Sex.java'
+                        class='ua.lviv.iot.enums.Sex'></ClassStats>
+            <ClassStats bugs='0' size='13' interface='false' sourceFile='Size.java'
+                        class='ua.lviv.iot.enums.Size'></ClassStats>
+            <ClassStats bugs='0' size='12' interface='false' sourceFile='Type.java'
+                        class='ua.lviv.iot.enums.Type'></ClassStats>
+        </PackageStats>
+        <PackageStats package='ua.lviv.iot.goods' total_bugs='0' total_size='112' total_types='5'>
+            <ClassStats bugs='0' size='14' interface='false' sourceFile='Gloves.java'
+                        class='ua.lviv.iot.goods.Gloves'></ClassStats>
+            <ClassStats bugs='0' size='56' interface='false' sourceFile='Good.java'
+                        class='ua.lviv.iot.goods.Good'></ClassStats>
+            <ClassStats bugs='0' size='14' interface='false' sourceFile='Hat.java'
+                        class='ua.lviv.iot.goods.Hat'></ClassStats>
+            <ClassStats bugs='0' size='14' interface='false' sourceFile='Socks.java'
+                        class='ua.lviv.iot.goods.Socks'></ClassStats>
+            <ClassStats bugs='0' size='14' interface='false' sourceFile='Tights.java'
+                        class='ua.lviv.iot.goods.Tights'></ClassStats>
+        </PackageStats>
+        <FindBugsProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='969' totalMilliseconds='62'
+                          name='edu.umd.cs.findbugs.classfile.engine.bcel.IsNullValueDataflowFactory'
+                          standardDeviationMircosecondsPerInvocation='2889' maxMicrosecondsPerInvocation='20486'
+                          invocations='65'></ClassProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='780' totalMilliseconds='50'
+                          name='edu.umd.cs.findbugs.classfile.engine.bcel.MethodGenFactory'
+                          standardDeviationMircosecondsPerInvocation='5205' maxMicrosecondsPerInvocation='42402'
+                          invocations='65'></ClassProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='557' totalMilliseconds='36'
+                          name='edu.umd.cs.findbugs.classfile.engine.bcel.ValueNumberDataflowFactory'
+                          standardDeviationMircosecondsPerInvocation='1385' maxMicrosecondsPerInvocation='7840'
+                          invocations='65'></ClassProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='540' totalMilliseconds='35'
+                          name='edu.umd.cs.findbugs.classfile.engine.bcel.UnconditionalValueDerefDataflowFactory'
+                          standardDeviationMircosecondsPerInvocation='1079' maxMicrosecondsPerInvocation='7281'
+                          invocations='65'></ClassProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='528' totalMilliseconds='34'
+                          name='edu.umd.cs.findbugs.ba.npe.NullDerefAndRedundantComparisonFinder'
+                          standardDeviationMircosecondsPerInvocation='1184' maxMicrosecondsPerInvocation='9212'
+                          invocations='65'></ClassProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='502' totalMilliseconds='32'
+                          name='edu.umd.cs.findbugs.classfile.engine.bcel.TypeDataflowFactory'
+                          standardDeviationMircosecondsPerInvocation='1236' maxMicrosecondsPerInvocation='8989'
+                          invocations='65'></ClassProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='170' totalMilliseconds='28'
+                          name='edu.umd.cs.findbugs.classfile.engine.ClassInfoAnalysisEngine'
+                          standardDeviationMircosecondsPerInvocation='1466' maxMicrosecondsPerInvocation='18998'
+                          invocations='170'></ClassProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='415' totalMilliseconds='27'
+                          name='edu.umd.cs.findbugs.classfile.engine.bcel.CFGFactory'
+                          standardDeviationMircosecondsPerInvocation='1143' maxMicrosecondsPerInvocation='9127'
+                          invocations='65'></ClassProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='730' totalMilliseconds='19'
+                          name='edu.umd.cs.findbugs.classfile.engine.bcel.JavaClassAnalysisEngine'
+                          standardDeviationMircosecondsPerInvocation='2554' maxMicrosecondsPerInvocation='13175'
+                          invocations='26'></ClassProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='1639' totalMilliseconds='18'
+                          name='edu.umd.cs.findbugs.detect.FindOpenStream'
+                          standardDeviationMircosecondsPerInvocation='4217' maxMicrosecondsPerInvocation='14660'
+                          invocations='11'></ClassProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='456' totalMilliseconds='17'
+                          name='edu.umd.cs.findbugs.detect.FindRefComparison$SpecialTypeAnalysis'
+                          standardDeviationMircosecondsPerInvocation='742' maxMicrosecondsPerInvocation='4351'
+                          invocations='38'></ClassProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='1528' totalMilliseconds='16'
+                          name='edu.umd.cs.findbugs.detect.FieldItemSummary'
+                          standardDeviationMircosecondsPerInvocation='1166' maxMicrosecondsPerInvocation='4546'
+                          invocations='11'></ClassProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='1475' totalMilliseconds='16'
+                          name='edu.umd.cs.findbugs.detect.FindNoSideEffectMethods'
+                          standardDeviationMircosecondsPerInvocation='854' maxMicrosecondsPerInvocation='2813'
+                          invocations='11'></ClassProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='245' totalMilliseconds='16'
+                          name='edu.umd.cs.findbugs.OpcodeStack$JumpInfoFactory'
+                          standardDeviationMircosecondsPerInvocation='1107' maxMicrosecondsPerInvocation='8811'
+                          invocations='66'></ClassProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='232' totalMilliseconds='15'
+                          name='edu.umd.cs.findbugs.classfile.engine.bcel.ConstantDataflowFactory'
+                          standardDeviationMircosecondsPerInvocation='690' maxMicrosecondsPerInvocation='5113'
+                          invocations='65'></ClassProfile>
+            <ClassProfile avgMicrosecondsPerInvocation='2124' totalMilliseconds='12'
+                          name='edu.umd.cs.findbugs.detect.StreamResourceTracker'
+                          standardDeviationMircosecondsPerInvocation='617' maxMicrosecondsPerInvocation='2882'
+                          invocations='6'></ClassProfile>
+        </FindBugsProfile>
+    </FindBugsSummary>
+    <ClassFeatures></ClassFeatures>
+    <History></History>
+</BugCollection>

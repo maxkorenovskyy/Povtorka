@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.18">
+    <file name="/Users/maxkorenovskyy/Desktop/Java/Koren-1/work/src/main/java/ua/lviv/iot/enums/Size.java">
+        <error line="0" severity="error" message="Missing package-info.java file."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocPackageCheck"/>
+        <error line="3" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+        <error line="4" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+        <error line="4" column="9" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+        <error line="4" column="12" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+        <error line="4" column="15" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+        <error line="4" column="18" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+    </file>
+    <file name="/Users/maxkorenovskyy/Desktop/Java/Koren-1/work/src/main/java/ua/lviv/iot/enums/Type.java">
+        <error line="3" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+        <error line="4" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+        <error line="4" column="10" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+        <error line="4" column="18" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+        <error line="4" column="25" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+    </file>
+    <file name="/Users/maxkorenovskyy/Desktop/Java/Koren-1/work/src/main/java/ua/lviv/iot/enums/Season.java">
+        <error line="3" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+        <error line="4" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+        <error line="4" column="13" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+        <error line="4" column="21" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+        <error line="4" column="29" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+        <error line="4" column="37" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+    </file>
+    <file name="/Users/maxkorenovskyy/Desktop/Java/Koren-1/work/src/main/java/ua/lviv/iot/enums/Sex.java">
+        <error line="3" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+        <error line="4" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+        <error line="4" column="11" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+        <error line="4" column="19" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+    </file>
+    <file name="/Users/maxkorenovskyy/Desktop/Java/Koren-1/work/src/main/java/ua/lviv/iot/Main.java">
+        <error line="0" severity="error" message="Missing package-info.java file."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocPackageCheck"/>
+        <error line="12" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+        <error line="13" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="16" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="21" column="17" severity="error" message="&apos;57.0&apos; is a magic number."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+        <error line="23" column="17" severity="error" message="&apos;88.0&apos; is a magic number."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+        <error line="25" column="17" severity="error" message="&apos;71.0&apos; is a magic number."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+        <error line="27" column="17" severity="error" message="&apos;32.0&apos; is a magic number."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+        <error line="29" column="17" severity="error" message="&apos;41.0&apos; is a magic number."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+        <error line="31" column="17" severity="error" message="&apos;44.0&apos; is a magic number."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+        <error line="33" column="17" severity="error" message="&apos;20.0&apos; is a magic number."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+        <error line="33" column="31" severity="error" message="&apos;28&apos; is a magic number."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+        <error line="35" column="17" severity="error" message="&apos;23.0&apos; is a magic number."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+        <error line="35" column="30" severity="error" message="&apos;24&apos; is a magic number."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+        <error line="37" column="17" severity="error" message="&apos;31.0&apos; is a magic number."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+        <error line="37" column="30" severity="error" message="&apos;31&apos; is a magic number."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+        <error line="39" column="17" severity="error" message="&apos;56.0&apos; is a magic number."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+        <error line="39" column="34" severity="error" message="&apos;27&apos; is a magic number."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+        <error line="41" column="17" severity="error" message="&apos;49.0&apos; is a magic number."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+        <error line="41" column="33" severity="error" message="&apos;30&apos; is a magic number."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+        <error line="43" column="17" severity="error" message="&apos;60.0&apos; is a magic number."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+        <error line="43" column="30" severity="error" message="&apos;32&apos; is a magic number."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck"/>
+    </file>
+    <file name="/Users/maxkorenovskyy/Desktop/Java/Koren-1/work/src/main/java/ua/lviv/iot/goods/Gloves.java">
+        <error line="0" severity="error" message="Missing package-info.java file."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocPackageCheck"/>
+        <error line="7" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+        <error line="8" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+        <error line="10" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="11" column="73" severity="error" message="&apos;size&apos; hides a field."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+        <error line="22" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="26" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="26" column="42" severity="error" message="&apos;size&apos; hides a field."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+    </file>
+    <file name="/Users/maxkorenovskyy/Desktop/Java/Koren-1/work/src/main/java/ua/lviv/iot/goods/Tights.java">
+        <error line="6" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+        <error line="7" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+        <error line="9" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="10" column="72" severity="error" message="&apos;size&apos; hides a field."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+        <error line="21" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="25" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="25" column="41" severity="error" message="&apos;size&apos; hides a field."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+    </file>
+    <file name="/Users/maxkorenovskyy/Desktop/Java/Koren-1/work/src/main/java/ua/lviv/iot/goods/Hat.java">
+        <error line="7" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+        <error line="8" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+        <error line="10" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="11" column="70" severity="error" message="&apos;size&apos; hides a field."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+        <error line="22" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="26" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="26" column="42" severity="error" message="&apos;size&apos; hides a field."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+    </file>
+    <file name="/Users/maxkorenovskyy/Desktop/Java/Koren-1/work/src/main/java/ua/lviv/iot/goods/Socks.java">
+        <error line="6" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+        <error line="7" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+        <error line="9" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="10" column="71" severity="error" message="&apos;size&apos; hides a field."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+        <error line="21" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="25" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="25" column="41" severity="error" message="&apos;size&apos; hides a field."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+    </file>
+    <file name="/Users/maxkorenovskyy/Desktop/Java/Koren-1/work/src/main/java/ua/lviv/iot/goods/Good.java">
+        <error line="6" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+        <error line="7" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+        <error line="8" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+        <error line="9" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+        <error line="10" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+        <error line="11" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+        <error line="12" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+        <error line="15" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="18" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="18" column="30" severity="error" message="&apos;modelName&apos; hides a field."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+        <error line="18" column="51" severity="error" message="&apos;sex&apos; hides a field."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+        <error line="18" column="69" severity="error" message="&apos;season&apos; hides a field."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+        <error line="19" column="28" severity="error" message="&apos;type&apos; hides a field."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+        <error line="19" column="47" severity="error" message="&apos;price&apos; hides a field."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+        <error line="19" column="67" severity="error" message="&apos;producer&apos; hides a field."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+        <error line="28" column="5" severity="error"
+               message="Method &apos;toString&apos; is not designed for extension - needs to be abstract, final or empty."
+               source="com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck"/>
+        <error line="40" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="44" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="44" column="49" severity="error" message="&apos;modelName&apos; hides a field."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+        <error line="48" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="52" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="52" column="40" severity="error" message="&apos;sex&apos; hides a field."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+        <error line="56" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="60" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="60" column="46" severity="error" message="&apos;season&apos; hides a field."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+        <error line="64" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="68" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="68" column="42" severity="error" message="&apos;type&apos; hides a field."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+        <error line="72" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="76" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="76" column="45" severity="error" message="&apos;price&apos; hides a field."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+        <error line="80" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="84" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="84" column="48" severity="error" message="&apos;producer&apos; hides a field."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+    </file>
+    <file name="/Users/maxkorenovskyy/Desktop/Java/Koren-1/work/src/main/java/ua/lviv/iot/BabyClothesStore.java">
+        <error line="9" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+        <error line="10" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+        <error line="11" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+        <error line="12" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+        <error line="13" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck"/>
+        <error line="15" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="15" column="42" severity="error" message="&apos;name&apos; hides a field."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+        <error line="15" column="61" severity="error" message="&apos;workingHours&apos; hides a field."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+        <error line="16" column="42" severity="error" message="&apos;location&apos; hides a field."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+        <error line="32" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="35" column="34" severity="error" message="&apos;goodList&apos; hides a field."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+        <error line="44" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="48" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="52" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="57" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="61" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="61" column="44" severity="error" message="&apos;name&apos; hides a field."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+        <error line="65" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="69" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="69" column="52" severity="error" message="&apos;workingHours&apos; hides a field."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+        <error line="73" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="77" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="77" column="48" severity="error" message="&apos;location&apos; hides a field."
+               source="com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck"/>
+        <error line="81" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+        <error line="85" column="5" severity="error" message="Missing a Javadoc comment."
+               source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+    </file>
+</checkstyle>
